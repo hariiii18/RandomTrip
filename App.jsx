@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import Papa from 'papaparse';
 
-const PIXABAY_API_KEY = '50356379-59c32b1069edcc860059ac8af'; // ←ここに自分のキーを入れる
+const PIXABAY_API_KEY = '・・・・・・・・・'; // ←キーを入れる
 
 function App() {
   const [data, setData] = useState([]);
